@@ -3,36 +3,36 @@
 
 <channel>
   <title>Joaquin112 Lab</title>
-  <link>joaquin112.github.com/wdf/wdf1202_delasierraj_lab7/my-web-standards/index.html</link>
+  <link>http://joaquin112.github.com/wdf/wdf1202_delasierraj_lab7/my-web-standards/index.html</link>
   <description>Joaquin's blog entries!</description>
   <item>
     <title>Day 7 - February 14, 2012</title>
-    <link>joaquin112.github.com/wdf/wdf1202_delasierraj_lab7/my-web-standards/index.html</link>
-    <description><p>In today's lecture we learned how to use XML files. We learned that they are used to store data or to share data to another application such as a Flash application. I think that's very cool because you can easily share data with other applications and that makes it easy to use and effective..</p>
+    <link>http://joaquin112.github.com/wdf/wdf1202_delasierraj_lab7/my-web-standards/index.html</link>
+    <description><![CDATA[<p>In today's lecture we learned how to use XML files. We learned that they are used to store data or to share data to another application such as a Flash application. I think that's very cool because you can easily share data with other applications and that makes it easy to use and effective..</p>
 	
 	<p>Additionally, we learned about RSS feeds which are pretty nice to use as they allow people to receive information every day from many different sources.</p>
-	<p>Useful link of the day: <a href = 'http://www.whatisrss.com/'>RSS Feeds</a></p>
+	<p>Useful link of the day: <a href = 'http://www.whatisrss.com/'>RSS Feeds</a> </p>]]>
 	</description>
   </item>
   <item>
     <title>Day 6 - February 11, 2012</title>
-    <link>joaquin112.github.com/wdf/wdf1202_delasierraj_lab7/my-web-standards/index.htm</link>
-    <description><p>In today's lecture we learned how to make forms using several different HTML elements. We learned how to use the input type element, how to use textarea and a lot of other cool things.</p>
+    <link>http://joaquin112.github.com/wdf/wdf1202_delasierraj_lab7/my-web-standards/index.htm</link>
+    <description><![CDATA[<p>In today's lecture we learned how to make forms using several different HTML elements. We learned how to use the input type element, how to use textarea and a lot of other cool things.</p>
 	
 	<p>I liked today's lecture because we also learned how to input data to another website such as Google or Wikipedia. For example, it's possible to send data to Wikipedia and show the user one of Wikipedia's pages.</p>
 	
-	<p>Useful link of the day: <a href = 'http://htmlhelp.com/reference/html40/forms/select.html'>HTML Forms</a></p>
-s</description>
+	<p>Useful link of the day: <a href = 'http://htmlhelp.com/reference/html40/forms/select.html'>HTML Forms</a></p>]]>
+</description>
   </item>
 
 <item>
     <title>Day 5 - February 9, 2012</title>
-    <link>joaquin112.github.com/wdf/wdf1202_delasierraj_lab7/my-web-standards/index.htm</link>
-    <description><p>I liked today's lecture. It had a lot of information about tables and tables inside tables. I learned not to use tables for layout because those layouts tend to look really ugly.</p>
+    <link>http://joaquin112.github.com/wdf/wdf1202_delasierraj_lab7/my-web-standards/index.htm</link>
+    <description><![CDATA[<p>I liked today's lecture. It had a lot of information about tables and tables inside tables. I learned not to use tables for layout because those layouts tend to look really ugly.</p>
 	
 	<p>An example of a tag I used is the &#60;table&#62;, which allows you to start a table. This tag is really useful and it's used in conjunction with &#60;tr&#62;, &#60;td&#62;; and a few other tags that were discussed during lecture.</p>
 	
-	<p>Useful link of the day: <a href = 'http://www.w3schools.com/html/html_tables.asp'>HTML Tables</a></p>
+	<p>Useful link of the day: <a href = 'http://www.w3schools.com/html/html_tables.asp'>HTML Tables</a></p>]]>
 </description>
   </item>
 
