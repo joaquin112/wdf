@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<filter  x="-15%" y="-15%" width="140%" height="130%" id="AI_Shadow_2" filterUnits="objectBoundingBox">
+	<feGaussianBlur  stdDeviation="6" result="blur" in="SourceAlpha"></feGaussianBlur>
+	<feOffset  dy="8" dx="8" result="offsetBlurredAlpha" in="blur"></feOffset>
+	<feMerge>
+		<feMergeNode  in="offsetBlurredAlpha"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<ellipse opacity="0.25" fill="#2D2D2D" stroke="#000000" stroke-miterlimit="10" cx="192.279" cy="181.697" rx="59.535" ry="29.535"/>
+<g filter="url(#AI_Shadow_2)">
+	<ellipse fill="#E51C1C" cx="115.837" cy="77.303" rx="32.093" ry="33.953"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="115.837" cy="77.303" rx="32.093" ry="33.953"/>
+</g>
+<g filter="url(#AI_Shadow_2)">
+	<ellipse fill="#E51C1C" cx="190.837" cy="77.303" rx="32.093" ry="33.953"/>
+	<ellipse fill="none" stroke="#000000" stroke-miterlimit="10" cx="190.837" cy="77.303" rx="32.093" ry="33.953"/>
+</g>
+<ellipse fill="#E51C1C" stroke="#000000" stroke-miterlimit="10" cx="155.279" cy="144.791" rx="59.535" ry="57.442"/>
+<ellipse fill="#ABFF8F" stroke="#000000" stroke-miterlimit="10" cx="155.628" cy="142.884" rx="15.116" ry="15.813"/>
+</svg>
